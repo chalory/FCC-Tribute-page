@@ -30,14 +30,14 @@
 }
 
 #image{
-   width: 100%;
-height: auto;
-max-width: 625px;
-margin-left: auto;
-margin-right: auto;
+  width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
   display: block;}
 
-#tribute-headline {
+ #tribute-headline {
   align-items: center;
  
 }
@@ -47,7 +47,7 @@ margin-right: auto;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  widht: 60%;
+  width: 60%;
   font-style: Arial;
 }
 
